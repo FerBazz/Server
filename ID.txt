@@ -4,10 +4,6 @@
 1|0|2|0|1|u|0|_|a|2|0|1
 -[ Subhan User Premium Berakhir Pada 6 Februari 2023 ]-
 1|0|0|1|1|u|0|_|a|1|1
--[ Rangga User Premium Berakhir Pada 5 Februari 2023 ]-
-1|0|2|9|2|u|0|_|a|2|9|2
--[ Malik User Premium Berakhir Pada 5 Februari 2023 ]-
-1|0|7|0|9|u|0|_|a|7|0|9
 -[ Author ]-
 1|0|2|5|7|u|0|_|a|2|5|7
 -[ Author ]-
